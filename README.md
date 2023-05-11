@@ -1,8 +1,8 @@
 <div align="center">
-  <h3>Senior Software Developer</h3>
+  <h1>Senior Software Developer</h1>
 </div>
 
-## I'm Full Stack Developer specialized in
+### I'm Full Stack Developer specialized in
 
 - MEAN/ MERN / LAMP (Laravel, Codeigniter, CakePHP) 
 - Tech stack who assist on both the front-end and back-end software development tasks.
