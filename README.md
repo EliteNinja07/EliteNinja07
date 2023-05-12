@@ -8,7 +8,7 @@
 - Tech stack who assist on both the front-end and back-end software development tasks.
 - Responsible for ensuring quality assurance, developing strategies to support system applications, database management and providing a positive user experience, among other responsibilities.
 
-###Experience in following technology stack & services:
+### Experience in following technology stack & services:
 
 - MEVN/MERN Stack: Node.JS, MongoDB, Express.JS, Next.JS, Vue.js, React.JS, Redux, Vuex
 - PHP Technologies: LAMP, Laravel, Codeigniter, CakePHP, Yii2.0 & Zend framwork
