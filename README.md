@@ -16,9 +16,9 @@
 - Databases: MySQL, Oracle, MongoDB, and Postgresql
 - Version Control: GIT, SVN, TFS, Bitbucket, Gitlab
 - Frontend Stack:
-o Languages: HTML5, CSS3, Sass, Less, JavaScript
-o HTML5, CSS3, Javascript, TypeScript, jQuery, Bootstrap, SCSS/SASS
-o UI Frameworks: Bootstrap, jQuery UI.
-o JavaScript Frameworks: React, Vue.js.
+o Languages: HTML5, CSS3, Sass, Less, JavaScript <br>
+o HTML5, CSS3, Javascript, TypeScript, jQuery, Bootstrap, SCSS/SASS <br>
+o UI Frameworks: Bootstrap, jQuery UI. <br>
+o JavaScript Frameworks: React, Vue.js. <br>
 
 view rawREADME hosted with ❤ by GitHub
