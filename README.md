@@ -1,6 +1,6 @@
-<div align="center">
-  <h1> 👋 Senior Software Developer</h1>
-</div>
+<p align="center">
+  <a href="https://github.com/BransonDouglas"><img src="https://readme-typing-svg.herokuapp.com/?lines=👋%20Branson%20Douglas;Senior%20Full%20Stack%20Engineer;5+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=60"></a>
+</p>
 
 ### I'm Full Stack Developer specialized in
 
