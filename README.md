@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Senior Software Developer</h1>
+  <h1> 👋 Senior Software Developer</h1>
 </div>
 
 ### I'm Full Stack Developer specialized in
