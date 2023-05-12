@@ -21,4 +21,4 @@ o HTML5, CSS3, Javascript, TypeScript, jQuery, Bootstrap, SCSS/SASS <br>
 o UI Frameworks: Bootstrap, jQuery UI. <br>
 o JavaScript Frameworks: React, Vue.js. <br>
 
-view rawREADME hosted with ❤ by GitHub
+❤ by GitHub
