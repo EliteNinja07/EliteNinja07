@@ -37,12 +37,15 @@ o JavaScript Frameworks: React, Vue.js. <br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-<div align="left"> 
+<p align="left" width="50%"> 
   <img src="https://github-readme-stats.vercel.app/api?username=BransonDouglas&show_icons=true&theme=gotham" alt="BransonDouglas" />
-</div>
+</p>
 
-<div align="right">
+<p align="right" width="50%">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BransonDouglas&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
-</div>
+</p>
 ------------
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
+<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> 
+  <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> 
+  <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/>
+</p>
