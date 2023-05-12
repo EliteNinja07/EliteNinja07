@@ -8,4 +8,17 @@
 - Tech stack who assist on both the front-end and back-end software development tasks.
 - Responsible for ensuring quality assurance, developing strategies to support system applications, database management and providing a positive user experience, among other responsibilities.
 
+###Experience in following technology stack & services:
+
+- MEVN/MERN Stack: Node.JS, MongoDB, Express.JS, Next.JS, Vue.js, React.JS, Redux, Vuex
+- PHP Technologies: LAMP, Laravel, Codeigniter, CakePHP, Yii2.0 & Zend framwork
+- Amazon Web Services - Amazon EC2, S3, SES, SNS, DynamoDB, CloudFront, Swagger, Load balancing, AWS Lambda services, serverless architecture, DC2, S3, EB.
+- Databases: MySQL, Oracle, MongoDB, and Postgresql
+- Version Control: GIT, SVN, TFS, Bitbucket, Gitlab
+- Frontend Stack:
+o Languages: HTML5, CSS3, Sass, Less, JavaScript
+o HTML5, CSS3, Javascript, TypeScript, jQuery, Bootstrap, SCSS/SASS
+o UI Frameworks: Bootstrap, jQuery UI.
+o JavaScript Frameworks: React, Vue.js.
+
 view rawREADME hosted with ❤ by GitHub
