@@ -12,7 +12,7 @@
 
 ### Experience in following technology stack & services:
 
-- MEVN/MERN Stack: Node.JS, MongoDB, Express.JS, Next.JS, Vue.js, React.JS, Redux, Vuex
+- MEVN/MERN Stack: Node.JS, MongoDB, Express.JS, Next.JS, Vue.js, React.JS, Redux, Vuex, Svelte
 - PHP Technologies: LAMP, Laravel, Codeigniter, CakePHP, Yii2.0 & Zend framwork
 - Amazon Web Services - Amazon EC2, S3, SES, SNS, DynamoDB, CloudFront, Swagger, Load balancing, AWS Lambda services, serverless architecture, DC2, S3, EB.
 - Databases: MySQL, Oracle, MongoDB, and Postgresql
