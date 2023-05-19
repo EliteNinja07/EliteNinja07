@@ -6,7 +6,7 @@ Creative software engineer with practical experience in website and mobile app f
 Love failures, learning from failure and how to deal with failure next time. Thus being optimistic, never give up to realize the dream.
 
 ### QUALITY + PUNCTUALITY + CONFIDENTIALITY
- <br>
+
 Why choose me? <br>
 ★ 7+ Years of experience <br>
 ★ 100% satisfaction assured <br>
