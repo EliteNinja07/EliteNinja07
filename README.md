@@ -6,16 +6,16 @@ Creative software engineer with practical experience in website and mobile app f
 Love failures, learning from failure and how to deal with failure next time. Thus being optimistic, never give up to realize the dream.
 
 ### QUALITY + PUNCTUALITY + CONFIDENTIALITY
-
-Why choose me?
-★ 7+ Years of experience
-★ 100% satisfaction assured
-★ 100% trusted team
-★ The wide portfolio of services
-★ Technological Excellence across platforms
-★ Thoughtful and futuristic software and web development
-★ Long term relationships!!
-
+ <br>
+Why choose me? <br>
+★ 7+ Years of experience <br>
+★ 100% satisfaction assured <br>
+★ 100% trusted team <br>
+★ The wide portfolio of services <br>
+★ Technological Excellence across platforms <br>
+★ Thoughtful and futuristic software and web development <br>
+★ Long term relationships!! <br>
+ <br>
 ### Experience in following technology stack & services:
 
 - MEVN/MERN Stack: Node.JS, MongoDB, Express.JS, Next.JS, Vue.js, React.JS, Redux, Vuex, Svelte
