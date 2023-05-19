@@ -2,13 +2,19 @@
   <a href="https://github.com/BransonDouglas"><img src="https://readme-typing-svg.herokuapp.com/?lines=👋%20Branson%20Douglas;Senior%20Full%20Stack%20Engineer;5+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=60"></a>
 </p>
 
-### I'm Full Stack Developer specialized in
+Creative software engineer with practical experience in website and mobile app front-end development. Love to work with diverse talents in agile work environments. Meaningful and consistent communication is one of my foundation blocks and in my opinion is the most important indicator of success in this field. And my strengths are creativity and persistence.
+Love failures, learning from failure and how to deal with failure next time. Thus being optimistic, never give up to realize the dream.
 
-- MEAN/ MERN / LAMP (Laravel, Codeigniter, CakePHP) 
-- Tech stack who assist on both the front-end and back-end software development tasks.
-- Responsible for ensuring quality assurance, developing strategies to support system applications, database management and providing a positive user experience, among other responsibilities.
+### QUALITY + PUNCTUALITY + CONFIDENTIALITY
 
-<img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
+Why choose me?
+★ 7+ Years of experience
+★ 100% satisfaction assured
+★ 100% trusted team
+★ The wide portfolio of services
+★ Technological Excellence across platforms
+★ Thoughtful and futuristic software and web development
+★ Long term relationships!!
 
 ### Experience in following technology stack & services:
 
