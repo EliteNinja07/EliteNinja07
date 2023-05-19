@@ -15,7 +15,7 @@ Why choose me? <br>
 ★ Technological Excellence across platforms <br>
 ★ Thoughtful and futuristic software and web development <br>
 ★ Long term relationships!! <br>
- <br>
+ 
 ### Experience in following technology stack & services:
 
 - MEVN/MERN Stack: Node.JS, MongoDB, Express.JS, Next.JS, Vue.js, React.JS, Redux, Vuex, Svelte
