@@ -10,7 +10,6 @@ Love failures, learning from failure and how to deal with failure next time. Thu
 Why choose me? <br>
 ★ 5+ Years of experience <br>
 ★ 100% satisfaction assured <br>
-★ 100% trusted team <br>
 ★ The wide portfolio of services <br>
 ★ Technological Excellence across platforms <br>
 ★ Thoughtful and futuristic software and web development <br>
