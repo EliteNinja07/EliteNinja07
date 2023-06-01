@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/BransonDouglas"><img src="https://readme-typing-svg.herokuapp.com/?lines=👋%20Branson%20Douglas;Senior%20Full%20Stack%20Engineer;5+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=60"></a>
+  <a href="https://github.com/BransonDouglas"><img src="https://readme-typing-svg.herokuapp.com/?lines=👋Senior%20Full%20Stack%20Engineer;5+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=60"></a>
 </p>
 
 Creative software engineer with practical experience in website and mobile app front-end development. Love to work with diverse talents in agile work environments. Meaningful and consistent communication is one of my foundation blocks and in my opinion is the most important indicator of success in this field. And my strengths are creativity and persistence.
