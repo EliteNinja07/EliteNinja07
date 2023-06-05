@@ -14,20 +14,6 @@ Why choose me? <br>
 ★ Technological Excellence across platforms <br>
 ★ Thoughtful and futuristic software and web development <br>
 ★ Long term relationships!! <br>
- 
-### Experience in following technology stack & services:
-
-- MEVN/MERN Stack: Node.JS, MongoDB, Express.JS, Next.JS, Vue.js, React.JS, Redux, Vuex, Svelte
-- PHP Technologies: LAMP, Laravel, Codeigniter, CakePHP, Yii2.0 & Zend framwork
-- Amazon Web Services - Amazon EC2, S3, SES, SNS, DynamoDB, CloudFront, Swagger, Load balancing, AWS Lambda services, serverless architecture, DC2, S3, EB.
-- Databases: MySQL, Oracle, MongoDB, and Postgresql
-- Version Control: GIT, SVN, TFS, Bitbucket, Gitlab
-- Frontend Stack:
-o Languages: HTML5, CSS3, Sass, Less, JavaScript <br>
-o HTML5, CSS3, Javascript, TypeScript, jQuery, Bootstrap, SCSS/SASS <br>
-o UI Frameworks: Bootstrap, jQuery UI. <br>
-o JavaScript Frameworks: React, Vue.js. <br>
-
 
 **languages and tools:**  
 <div align="center">
@@ -39,8 +25,8 @@ o JavaScript Frameworks: React, Vue.js. <br>
         <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></td>
         <td><img height="40" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></td>
         <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></td>
-        <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></td>
-        <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></td>
+        <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/framer/framer.png"></td>
+        <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png"></td>
         <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></td>
         <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></td>
         <td><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></td>
