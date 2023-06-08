@@ -82,7 +82,7 @@ Why choose me? <br>
 <br/>
   
 <p align="center"> 
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=BransonDouglas&show_icons=true&theme=gotham" alt="BransonDouglas" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=EliteNinja07&show_icons=true&theme=gotham" alt="BransonDouglas" />
   
 ------------
   
