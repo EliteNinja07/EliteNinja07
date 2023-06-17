@@ -83,8 +83,6 @@ Why choose me? <br>
   
 <p align="center"> 
   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=EliteNinja07&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
-
 ![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=EliteNinja07&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliteNinja07&langs_count=10&layout=compact&theme=radical)
